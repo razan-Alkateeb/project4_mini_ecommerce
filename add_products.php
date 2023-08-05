@@ -185,7 +185,7 @@ if(isset($_GET['clear']) && $_GET['clear'] === 'true') {
                 </div>
 
                 <div class="footer-col">
-                    <h4>follow us</h4>
+                    <h4>Follow us</h4>
                     <div class="social-links">
                         <a href="#"> <i class='bx bxl-instagram'></i></a>
                         <a href="#"><i class='bx bxl-facebook'></i></i></a>
